@@ -13,9 +13,16 @@ My personal list of useful (or interesting) C related resources.
 
 ## Compilers
 
+  * SDCC - Small Device C Compiler - https://sdcc.sourceforge.net/
+  * TinyCC / TCC - https://bellard.org/tcc/
+      * https://repo.or.cz/w/tinycc.git
+      * https://github.com/TinyCC/tinycc
+
 ### Windows
 
   * Strawberry Perl https://strawberryperl.com/ for Windows includes an easy to use GCC based C/C++ compiler
+      * mingw32 with make/gmake, fortran, dos2unix, iconv, patch, openssl, NSSM (The non-sucking service manager)
+      * Perl5
 
 ## Tools
 
