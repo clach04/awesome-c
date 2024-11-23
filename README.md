@@ -30,3 +30,10 @@ My personal list of useful (or interesting) C related resources.
 
   * https://monocypher.org/
       * https://github.com/LoupVaillant/Monocypher
+
+## TODO
+
+Things that look interesting but I've not researched/used properly
+
+  * w64devkit for Windows compiler set of tools
+      * Downloads flagged as virus and blocked (by Windows Defender/Chrome/Edge) - https://github.com/skeeto/w64devkit/issues/185
