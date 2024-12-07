@@ -17,6 +17,8 @@ My personal list of useful (or interesting) C related resources.
   * TinyCC / TCC - https://bellard.org/tcc/
       * https://repo.or.cz/w/tinycc.git
       * https://github.com/TinyCC/tinycc
+      * https://en.wikipedia.org/wiki/Tiny_C_Compiler
+      * https://download.savannah.gnu.org/releases/tinycc/
 
 ### Windows
 
