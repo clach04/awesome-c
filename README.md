@@ -28,7 +28,8 @@ My personal list of useful (or interesting) C related resources.
   * https://winlibs.com/
       * http://mingw-w64.org/
       * Code::Blocks https://www.codeblocks.org/
-  * https://sourceforge.net/projects/mingw/ - ast update 2021
+  * https://sourceforge.net/projects/mingw/ - last update 2021
+
 ## Tools
 
   *  http://uncrustify.sourceforge.net/ reformatter/indenter (safe than GNU indent and astyle)
@@ -37,6 +38,12 @@ My personal list of useful (or interesting) C related resources.
 
   * Pre-defined Compiler Macros - https://github.com/cpredef/predef
       * Originally at https://sourceforge.net/projects/predef/
+
+## Books
+
+  * Expert C Programming: Deep C Secrets by Peter van der Linden
+  * TODO Harvard recommended one
+  * TODO K&R Programming in C (2nd)
 
 ## Libraries
 
