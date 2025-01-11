@@ -50,6 +50,10 @@ My personal list of useful (or interesting) C related resources.
   * https://monocypher.org/
       * https://github.com/LoupVaillant/Monocypher
 
+## C++ Libraries
+
+  * https://github.com/sharkdp/dbg-macro
+
 ## TODO
 
 Things that look interesting but I've not researched/used properly
