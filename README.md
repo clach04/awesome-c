@@ -42,7 +42,7 @@ My personal list of useful (or interesting) C related resources.
   * https://github.com/DynamoRIO/drmemory - Memory Debugger for Windows, Linux, Mac, and Android
   * https://github.com/rxi/dmt - Dynamic memory tracker for C (malloc replacement)
 
-##.# Formatting
+### Formatting
 
   *  http://uncrustify.sourceforge.net/ reformatter/indenter (safe than GNU indent and astyle)
 
