@@ -50,6 +50,8 @@ My personal list of useful (or interesting) C related resources.
 
   * Pre-defined Compiler Macros - https://github.com/cpredef/predef
       * Originally at https://sourceforge.net/projects/predef/
+  * https://www.pixelbeat.org/programming/profiling/
+
 
 ## Books
 
