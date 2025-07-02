@@ -22,13 +22,14 @@ My personal list of useful (or interesting) C related resources.
 
 ### Windows
 
-  * Strawberry Perl https://strawberryperl.com/ for Windows includes an easy to use GCC based C/C++ compiler
+  * Strawberry Perl https://strawberryperl.com/ for Windows includes an easy-to-use GCC-based C/C++ compiler
       * mingw32 with make/gmake, fortran, dos2unix, iconv, patch, openssl, NSSM (The non-sucking service manager)
       * Perl5
   * https://winlibs.com/
       * http://mingw-w64.org/
       * Code::Blocks https://www.codeblocks.org/
   * https://sourceforge.net/projects/mingw/ - last update 2021
+  * http://www.smorgasbordet.com/pellesc/ - Pelles C based on LCC - Pelles C is a complete development kit for Desktop Windows.
 
 ## Tools
 
