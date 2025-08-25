@@ -25,6 +25,8 @@ My personal list of useful (or interesting) C related resources.
   * Strawberry Perl https://strawberryperl.com/ for Windows includes an easy-to-use GCC-based C/C++ compiler
       * mingw32 with make/gmake, fortran, dos2unix, iconv, patch, openssl, NSSM (The non-sucking service manager)
       * Perl5
+  * https://github.com/skeeto/w64devkit
+      * https://nullprogram.com/blog/2020/09/25/ - w64devkit: (Almost) Everything You Need
   * https://winlibs.com/
       * http://mingw-w64.org/
       * Code::Blocks https://www.codeblocks.org/
@@ -52,6 +54,7 @@ My personal list of useful (or interesting) C related resources.
   * Pre-defined Compiler Macros - https://github.com/cpredef/predef
       * Originally at https://sourceforge.net/projects/predef/
   * https://www.pixelbeat.org/programming/profiling/
+  * https://nullprogram.com/blog/2017/08/20/ - A Tutorial on Portable Makefiles by Chris Wellons
 
 
 ## Books
