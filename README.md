@@ -82,3 +82,10 @@ Things that look interesting but I've not researched/used properly
 
   * w64devkit for Windows compiler set of tools
       * Downloads flagged as virus and blocked (by Windows Defender/Chrome/Edge) - https://github.com/skeeto/w64devkit/issues/185
+
+  * https://github.com/nemequ/pre-defined-macros
+  * https://github.com/tinycthread/tinycthread
+  * https://github.com/sheredom/utf8.h
+  * https://github.com/nemequ/salieri - Source-code annotation language (SAL) compatibility header
+  * https://github.com/nemequ/hedley
+  * 
