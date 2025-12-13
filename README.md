@@ -37,6 +37,11 @@ My personal list of useful (or interesting) C related resources.
   * https://sourceforge.net/projects/mingw/ - last update 2021
   * http://www.smorgasbordet.com/pellesc/ - Pelles C based on LCC - Pelles C is a complete development kit for Desktop Windows.
 
+### Java
+
+  * https://github.com/mridoni/llxvm
+
+
 ## Tools
 
 ## Debug
