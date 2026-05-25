@@ -20,6 +20,7 @@ My personal list of useful (or interesting) C related resources.
       * https://github.com/TinyCC/tinycc
       * https://en.wikipedia.org/wiki/Tiny_C_Compiler
       * https://download.savannah.gnu.org/releases/tinycc/
+  * https://github.com/jart/cosmopolitan - note includes Windows support. 64-bit ONLY
 
 ### Windows
 
