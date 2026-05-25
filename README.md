@@ -90,6 +90,7 @@ Things that look interesting but I've not researched/used properly
   * w64devkit for Windows compiler set of tools
       * Downloads flagged as virus and blocked (by Windows Defender/Chrome/Edge) - https://github.com/skeeto/w64devkit/issues/185
 
+  * https://github.com/skeeto/scratch/tree/master/libwinsane
   * https://github.com/MrAnno/debugbreak
       * https://github.com/scottt/debugbreak/
   * https://github.com/nemequ/munit C unittest framework
