@@ -66,6 +66,7 @@ My personal list of useful (or interesting) C related resources.
       * Originally at https://sourceforge.net/projects/predef/
   * https://www.pixelbeat.org/programming/profiling/
   * https://nullprogram.com/blog/2017/08/20/ - A Tutorial on Portable Makefiles by Chris Wellons
+  * https://github.com/AnthonyCalandra/modern-c-features
 
 
 ## Books
